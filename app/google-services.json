@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978105816179",
+    "firebase_url": "https://fir-94347.firebaseio.com",
+    "project_id": "fir-94347",
+    "storage_bucket": "fir-94347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978105816179:android:d78a5dd3297e7853194606",
+        "android_client_info": {
+          "package_name": "com.example.gpsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978105816179-e6hsn3s98vdv567nve35njdmgd2eovep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__Q5whH4Rz1tCbEdmBbycLuCghGcAj8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978105816179-e6hsn3s98vdv567nve35njdmgd2eovep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
